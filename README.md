@@ -2,7 +2,7 @@
 In class competition for MSBD 5001 Fall2020
 
 ### Solution
-A integrate model (TCN*0.2 + Rational quadratic Gaussian process regression*0.8)
+A integrate model (TCNx0.2 + Rational quadratic Gaussian process regressionx0.8)
 
 ### Environment
 Python (keras, sklearn) & Matlab
