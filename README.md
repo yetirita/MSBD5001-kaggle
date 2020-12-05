@@ -1,2 +1,2 @@
 # MSBD5001-kaggle
-MSBD5001 Fall2020 kaggle competition
+In class competition for MSBD 5001 Fall2020
